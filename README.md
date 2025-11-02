@@ -18,3 +18,5 @@ Use the checkboxes below and the Project board to track progress.
 - Check off items here as you complete them.
 - Each checklist item has a matching GitHub Issue you can work from.
 - The Project board shows status at a glance.
+
+- [Week 1 — Monday notes](notes/week1-monday.md)
