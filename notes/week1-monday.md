@@ -4,16 +4,29 @@
 
 ## Group A — SDLC vs STLC
 
+### Software **Developmen**t Life Cycle
+
+- Phases of the SDLC:
+- Planning - determine
+- Analysis - gather
+- Design - create
+- Development -build
+- Testing - review
+- Deployment - fix
+- Maintenance - support
+
 - (add 5–8 bullets)
-- Software Development Life Cycle:
- Phases of the SDLC:
-Planning - determine
-Analysis - gather
-Design - create
-Development -build
-Testing - review
-Deployment - fix
-Maintenance - support
+
+### Software **Testing** Life Cycle
+
+- Requirement Analysis
+- Test Planning
+- Test Design
+- Test Environment
+- Test Execution
+- Defect Tracking
+- Test Reporting
+
 - …
 **Diagram:** ./img/sdlc-vs-stlc.png  *(or external URL)*
 
@@ -36,10 +49,13 @@ Maintenance - support
 - …
 
 <a id="group-d-equivalence-partitioning"></a>
+
 ## Group D — Black-box techniques — Equivalence Partitioning
 
 <a id="group-e-state-transition"></a>
+
 ## Group E — Black-box techniques — State Transition
 
 <a id="group-f-error-guessing"></a>
+
 ## Group F — Black-box techniques — Error Guessing
