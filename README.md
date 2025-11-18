@@ -12,12 +12,12 @@ Use the checkboxes below and the project board to track your progress. This repo
 
 ### Monday
 
-- [ ] Review SDLC vs STLC
-- [ ] Review test levels (unit / integration / system / UAT)
-- [ ] Black-box techniques: Boundary Value Analysis (BVA) essentials
-- [ ] Black-box techniques: Equivalence Partitioning
-- [ ] Black-box techniques: State Transition
-- [ ] Black-box techniques: Error Guessing
+- [X] Review SDLC vs STLC
+- [X] Review test levels (unit / integration / system / UAT)
+- [X] Black-box techniques: Boundary Value Analysis (BVA) essentials
+- [X] Black-box techniques: Equivalence Partitioning
+- [X] Black-box techniques: State Transition
+- [X] Black-box techniques: Error Guessing
 
 ### Tuesday
 
